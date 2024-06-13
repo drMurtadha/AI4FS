@@ -24,4 +24,7 @@ For researchers and students, citation management tools provide a systematic app
 ### Managing a Systematic Review
 Systematic reviews are complex processes that require careful planning and execution. There are a number of tools available to help researchers manage their systematic reviews, including: Rayyan. It includes SysRev, Convidence, RevMan, Readwise, Obsidian, Colandr, The Systematic Review Toolbox, PRISMA-P, EQUATOR Network, and DistillerSR.
 
+### Text summeriser
+A text summariser helps make long content shorter. These include [**Elicit**](https://elicit.com/users/auth?redirectToPath=) , [**SciSpace**](https://typeset.io), [**QuillBot**](https://quillbot.com), [**Wordtune**](https://app.wordtune.com/auth/signup?product=write&redirect=%2F), [**Scholarcy**](https://www.scholarcy.com/), [**Resoomer**](https://resoomer.com/en/), and TLDR. Using smart technology, they select important information and summarise it. For summarising web pages, use Elicit, SciSpace for science stuff, QuillBot for rewriting and resuming, Wordtune for writing, Scholarcy for academic papers, Resoomer for various content, and [**TLDR**](https://www.tldrthis.com/) for quick summarisation. By getting to the main points, these tools save time and make information easier to understand.
+
 
