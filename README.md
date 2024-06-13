@@ -21,5 +21,7 @@ The use of **artificial intelligence (AI)** tools has revolutionised the way tas
 
 For researchers and students, citation management tools provide a systematic approach to the challenging task of managing references. With tools like [**EndNote**](https://endnote.com/), [**RefWorks**](https://www.refworks.com/), [**Zotero**](https://www.zotero.org), and [**Mendeley**](https://www.mendeley.com), these software applications offer a comprehensive solution to organizing, tracking, and citing sources.
 
+### Managing a Systematic Review
+Systematic reviews are complex processes that require careful planning and execution. There are a number of tools available to help researchers manage their systematic reviews, including: Rayyan. It includes SysRev, Convidence, RevMan, Readwise, Obsidian, Colandr, The Systematic Review Toolbox, PRISMA-P, EQUATOR Network, and DistillerSR.
 
 
