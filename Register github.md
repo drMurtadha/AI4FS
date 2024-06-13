@@ -1,6 +1,6 @@
 
 
-```markdown
+markdown
 1. **Visit the GitHub website**: Go to GitHub.
 2. **Sign Up**: Click on the 'Sign up' button on the top right corner of the page.
 3. **Fill Out the Form**:
@@ -13,4 +13,3 @@
 7. **Verify Your Email Address**: Finally, go to your email inbox and look for the verification email from GitHub. Click on the link in that email to verify your email address.
 
 Congratulations! You now have a GitHub account. 😊
-```
