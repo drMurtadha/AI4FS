@@ -1,6 +1,6 @@
 
 
-markdown
+
 1. **Visit the GitHub website**: Go to GitHub.
 2. **Sign Up**: Click on the 'Sign up' button on the top right corner of the page.
 3. **Fill Out the Form**:
